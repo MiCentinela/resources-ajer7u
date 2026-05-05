@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://MiCentinela.github.io/resources-ajer7u/sitemap.xml
